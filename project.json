@@ -1,0 +1,22 @@
+{
+	"headless": {
+		"commands": [
+			[]
+		]
+	},
+	"headed": {
+		"tabs": [
+			{
+				"commands": [
+					[]
+				]
+			},
+			{
+				"commands": [
+					[],
+				]
+			}
+		],
+		"color": "#003839"
+	}
+}
